@@ -1,0 +1,1604 @@
+@media (max-width: 350px) {
+
+    #header {
+        background: url(../img/bg-1.png) no-repeat;
+        background-position: center center;
+        background-size: cover;
+        min-height: 960px;
+    }
+
+    .logo {
+        padding-top: 35px;
+        text-align: center;
+    }
+
+    .nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 22px;
+        float: left;
+    }
+
+    .nav_style .navbar-nav > li > a {
+        color: white;
+        padding: 10px 25px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .nav_style .navbar-nav > li > a:hover {
+        color: white
+    }
+
+    .header_icon {
+
+        margin-top: 32px
+    }
+
+    .header_icon i {
+        color: white;
+        font-size: 20px;
+        padding-right: 1px;
+    }
+
+    .header_content {
+        margin-top: 58px;
+        padding: 30px;
+    }
+
+    .header_h2 {
+        font-family: Ubuntu;
+        font-weight: bold;
+        color: white;
+        font-size: 45px;
+    }
+
+    .header_p {
+        font-family: Ubuntu;
+        width: 100%;
+        color: white;
+        font-size: 16px;
+    }
+
+    .dwn_btn {
+        background: #fc6a42;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .btn_feat {
+        background: #4466c9;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .header_img {
+
+        margin-top: 37px;
+    }
+
+    .mobile_pos_header {}
+
+    .header_btm_img_pos {
+        position: relative
+    }
+
+    .img_arrow_Pos {
+        position: absolute;
+        right: 49%;
+        top: 46%;
+    }
+
+    #perfect {
+        min-height: 520px;
+    }
+
+    .title {
+        margin-top: 125px;
+    }
+
+    .title_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+
+    .title_p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    .single_perfect {
+        margin-top: 50px;
+        text-align: center;
+        padding: 30px;
+    }
+
+    .img_perfect {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .content_perfect {
+        float: right;
+        width: 100%;
+    }
+
+    .content_perfect h2 {
+        font-family: ubuntu;
+        font-size: 24px;
+        font-weight: bold;
+        color: #353854;
+    }
+
+    .content_perfect p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    #widgets {
+        min-height: 600px;
+    }
+
+    .widget_slider {
+        position: relative;
+        margin-top: 80px;
+    }
+
+    .widget_img_pos {
+        position: absolute;
+        left: -1%;
+    }
+
+    .right_aro_pos {
+        position: absolute;
+        left: -5%;
+        top: 100px;
+        width: 4%;
+    }
+
+    .left_aro_pos {
+        position: absolute;
+        right: -4%;
+        top: 100px;
+        width: 4%;
+    }
+
+    #screenshots {}
+    .screenshot_title {
+        margin-bottom: 40px;
+    }
+    .screenshot_feature {
+        min-height: 959px;
+        padding: 30px;
+        margin-top: 0px;
+    }
+    .screenshots_feature01_img {
+        background: url(../img/cloud-bg.png) no-repeat;
+        background-position: 98%;
+        padding-left: 0%;
+    }
+    .screenshots_feature02_img {
+        background: url(../img/sunny-bg.jpg) no-repeat;
+        background-position: 98%;
+        padding-left: 0%;
+    }
+    .screenshots_feature03_img {
+        background: url(../img/raniy-bg.jpg) no-repeat;
+        background-position: 98%;
+        padding-left: 0%;
+    }
+    .screenshots_feature_content {
+        width: 100%;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .screenshot_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+    .screenshot_p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #999999;
+    }
+
+    #people {
+        min-height: 635px
+    }
+    .title_people {
+        margin-bottom: 80px;
+        margin-top: 115px
+    }
+   
+    .up_people_img {
+        margin-bottom: 15px
+    }
+    .down_people_img {}
+    .people_comment {
+        padding: 30px;
+        margin-bottom: 50px;
+    }
+    .people_comment p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #6c6e7e;
+    }
+    .people_comment span {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #353854
+    }
+
+    #download {
+        background: url(../img/footer_up.jpg) no-repeat;
+        background-size: cover;
+        min-height: 415px;
+        background-position: center center;
+    }
+    .download_content {
+        margin-top: 95px;
+        padding: 10px;
+    }
+
+    .download_content img {
+        width: 49%
+    }
+    .download_content h2 {
+        font-family: ubuntu;
+        font-size: 22px;
+        font-weight: bold;
+        color: white;
+        margin-bottom: 18px;
+        text-transform: uppercase;
+    }
+
+    .download_content p {
+        font-family: ubuntu;
+        font-size: 16px;
+        color: #dfe6ff;
+        margin-bottom: 35px;
+        width: 72%;
+    }
+
+    #footer {
+        min-height: 370px;
+        background: #353854;
+    }
+
+    .border_btm {
+        border-bottom: 2px solid #474b6f;
+        min-height: 210px
+    }
+
+    .footer_logo {
+        margin-top: 58px;
+        text-align: center
+    }
+
+    .footer_nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 50px;
+        float: left
+    }
+
+    .footer_nav_style .navbar-nav > li > a {
+        color: #b5b5c8;
+        padding: 10px 25px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .footer_nav_style .navbar-nav > li > a:hover {
+        color: #ffffff
+    }
+
+    .footer_icon {
+        margin-top: 55px
+    }
+    .footer_icon i {
+        color: #aeafc2;
+        font-size: 19px;
+        padding-right: 0px;
+    }
+
+    .copyright {
+        margin-top: 60px
+    }
+    .copyright p {
+        font-size: 12px;
+        font-family: Ubuntu;
+        color: #545984
+    }
+
+
+}
+
+@media (min-width: 351px) and (max-width: 550px) {
+
+    .logo {
+        padding-top: 35px;
+        text-align: center;
+    }
+
+    .nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 22px;
+        float: left;
+    }
+
+    .nav_style .navbar-nav > li > a {
+        color: white;
+        padding: 10px 25px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .nav_style .navbar-nav > li > a:hover {
+        color: white
+    }
+
+    .header_icon {
+        float: right;
+        margin-top: 32px
+    }
+
+    .header_icon i {
+        color: white;
+        font-size: 20px;
+        padding-right: 1px;
+    }
+
+    .header_content {
+        margin-top: 58px;
+        padding: 30px;
+    }
+
+    .header_h2 {
+        font-family: Ubuntu;
+        font-weight: bold;
+        color: white;
+        font-size: 45px;
+    }
+
+    .header_p {
+        font-family: Ubuntu;
+        width: 100%;
+        color: white;
+        font-size: 16px;
+    }
+
+    .dwn_btn {
+        background: #fc6a42;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .btn_feat {
+        background: #4466c9;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .header_img {
+
+        margin-top: 37px;
+    }
+
+    .mobile_pos_header {}
+
+    .header_btm_img_pos {
+        position: relative
+    }
+
+    .img_arrow_Pos {
+        position: absolute;
+        right: 49%;
+        top: 46%;
+    }
+
+    #perfect {
+        min-height: 553px;
+    }
+
+    .title {
+        margin-top: 125px;
+    }
+
+    .title_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+
+    .title_p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    .single_perfect {
+        margin-top: 50px;
+        text-align: center;
+        padding: 30px;
+    }
+
+    .img_perfect {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .content_perfect {
+        float: right;
+        width: 100%;
+    }
+
+    .content_perfect h2 {
+        font-family: ubuntu;
+        font-size: 24px;
+        font-weight: bold;
+        color: #353854;
+    }
+
+    .content_perfect p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    #widgets {
+        min-height: 650px
+    }
+
+    .widget_slider {
+        position: relative;
+        margin-top: 80px;
+    }
+
+    .widget_img_pos {
+        position: absolute;
+        left: 0%;
+    }
+
+    .right_aro_pos {
+        position: absolute;
+        left: -2%;
+        top: 109px;
+        width: 4%;
+    }
+
+    .left_aro_pos {
+        position: absolute;
+        right: -2%;
+        top: 109px;
+        width: 4%;
+    }
+
+    #screenshots {}
+    .screenshot_title {}
+    .screenshot_feature {
+        margin-top: 95px;
+        min-height: 484px;
+    }
+    .screenshots_feature01_img {
+        background: url(../img/cloud-bg.png) no-repeat;
+        background-position: 88%;
+        padding-left: 8%;
+    }
+    .screenshots_feature02_img {
+        background: url(../img/sunny-bg.jpg) no-repeat;
+        background-position: 88%;
+        padding-left: 8%;
+    }
+    .screenshots_feature03_img {
+        background: url(../img/raniy-bg.jpg) no-repeat;
+        background-position: 88%;
+        padding-left: 8%;
+    }
+    .screenshots_feature_content {
+        width: 100%;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .screenshot_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+    .screenshot_p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #999999;
+    }
+
+    #people {
+        min-height: 635px
+    }
+    .title_people {
+        margin-bottom: 80px;
+        margin-top: 115px
+    }
+    .people_comment {
+        margin-bottom: 100px;
+
+    }
+    .up_people_img {
+        margin-bottom: 15px
+    }
+    .down_people_img {}
+    .people_comment {}
+    .people_comment p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #6c6e7e;
+    }
+    .people_comment span {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #353854
+    }
+
+    #download {
+        background: url(../img/footer_up.jpg) no-repeat;
+        background-size: cover;
+        min-height: 460px;
+        background-position: center center;
+    }
+    .download_content {
+        margin-top: 125px;
+
+    }
+
+    .download_content h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: white;
+        margin-bottom: 40px;
+        text-transform: uppercase
+    }
+
+    .download_content p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #dfe6ff;
+        margin-bottom: 50px;
+        width: 72%
+    }
+
+    #footer {
+        min-height: 370px;
+        background: #353854;
+    }
+
+    .border_btm {
+        border-bottom: 2px solid #474b6f;
+        min-height: 210px
+    }
+
+    .footer_logo {
+        margin-top: 58px;
+        text-align: center
+    }
+
+    .footer_nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 50px;
+        float: left
+    }
+
+    .footer_nav_style .navbar-nav > li > a {
+        color: #b5b5c8;
+        padding: 10px 25px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .footer_nav_style .navbar-nav > li > a:hover {
+        color: #ffffff
+    }
+
+    .footer_icon {
+        margin-top: 55px;
+        float: right
+    }
+    .footer_icon i {
+        color: #aeafc2;
+        font-size: 20px;
+        padding-right: 0px;
+    }
+
+    .copyright {
+        margin-top: 60px
+    }
+    .copyright p {
+        font-size: 12px;
+        font-family: Ubuntu;
+        color: #545984
+    }
+
+
+}
+
+@media (min-width: 551px) and (max-width: 767px) {
+
+
+    #header {
+        background: url(../img/bg-1.png) no-repeat;
+        background-position: center center;
+        background-size: cover;
+        min-height: 960px;
+    }
+
+    .logo {
+        padding-top: 35px;
+        text-align: center;
+    }
+
+    .nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 22px;
+        float: left;
+    }
+
+    .nav_style .navbar-nav > li > a {
+        color: white;
+        padding: 10px 25px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .nav_style .navbar-nav > li > a:hover {
+        color: white
+    }
+
+    .header_icon {margin-top: 32px;float: right;}
+
+    .header_icon i {
+        color: white;
+        font-size: 20px;
+        padding-right: 1px;
+    }
+
+    .header_content {
+        margin-top: 58px;
+        padding: 30px;
+    }
+
+    .header_h2 {
+        font-family: Ubuntu;
+        font-weight: bold;
+        color: white;
+        font-size: 45px;
+    }
+
+    .header_p {
+        font-family: Ubuntu;
+        width: 100%;
+        color: white;
+        font-size: 16px;
+    }
+
+    .dwn_btn {
+        background: #fc6a42;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .btn_feat {
+        background: #4466c9;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .header_img {
+
+        margin-top: 37px;
+    }
+
+    .mobile_pos_header {}
+
+    .header_btm_img_pos {
+        position: relative
+    }
+
+    .img_arrow_Pos {
+        position: absolute;
+        right: 49%;
+        top: 46%;
+    }
+
+
+    #perfect {
+        min-height: 555px;
+    }
+
+    .title {
+        margin-top: 125px;
+    }
+
+    .title_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+
+    .title_p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    .single_perfect {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .img_perfect {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .content_perfect {
+        float: right;
+        width: 100%;
+    }
+
+    .content_perfect h2 {
+        font-family: ubuntu;
+        font-size: 24px;
+        font-weight: bold;
+        color: #353854;
+    }
+
+    .content_perfect p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    #widgets {
+        min-height: 960px
+    }
+
+    .widget_slider {
+        position: relative;
+        margin-top: 80px;
+    }
+
+    .widget_img_pos {
+        position: absolute;
+        left: 0%;
+    }
+
+    .right_aro_pos {
+        position: absolute;
+        left: -2%;
+        top: 305px;
+    }
+
+    .left_aro_pos {
+        position: absolute;
+        right: -2%;
+        top: 305px;
+    }
+
+    #screenshots {}
+    .screenshot_title {}
+    .screenshot_feature {
+        margin-top: 95px;
+        min-height: 484px;
+    }
+    .screenshots_feature01_img {
+        background: url(../img/cloud-bg.png) no-repeat;
+        background-position: 70%;
+        padding-left: 22%;
+    }
+    .screenshots_feature02_img {
+        background: url(../img/sunny-bg.jpg) no-repeat;
+        background-position: 70%;
+        padding-left: 22%;
+    }
+    .screenshots_feature03_img {
+        background: url(../img/raniy-bg.jpg) no-repeat;
+        background-position: 70%;
+        padding-left: 22%;
+    }
+    .screenshots_feature_content {
+        width: 100%;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .screenshot_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+    .screenshot_p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #999999;
+    }
+
+    #people {
+        min-height: 635px
+    }
+    .title_people {
+        margin-bottom: 80px;
+        margin-top: 115px
+    }
+    .people_comment {
+        margin-bottom: 100px;
+
+    }
+    .up_people_img {
+        margin-bottom: 15px
+    }
+    .down_people_img {}
+    .people_comment {}
+    .people_comment p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #6c6e7e;
+    }
+    .people_comment span {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #353854
+    }
+
+    #download {
+        background: url(../img/footer_up.jpg) no-repeat;
+        background-size: cover;
+        min-height: 460px;
+        background-position: center center;
+    }
+    .download_content {
+        margin-top: 125px;
+
+    }
+
+    .download_content h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: white;
+        margin-bottom: 40px;
+        text-transform: uppercase
+    }
+
+    .download_content p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #dfe6ff;
+        margin-bottom: 50px;
+        width: 72%
+    }
+
+    #footer {
+        min-height: 370px;
+        background: #353854;
+    }
+
+    .border_btm {
+        border-bottom: 2px solid #474b6f;
+        min-height: 210px
+    }
+
+    .footer_logo {
+        margin-top: 58px;
+        text-align: center
+    }
+
+    .footer_nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 50px;
+        float: left
+    }
+
+    .footer_nav_style .navbar-nav > li > a {
+        color: #b5b5c8;
+        padding: 10px 25px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .footer_nav_style .navbar-nav > li > a:hover {
+        color: #ffffff
+    }
+
+    .footer_icon {
+        margin-top: 55px
+    }
+    .footer_icon i {
+        color: #aeafc2;
+        font-size: 20px;
+        padding-right: 0px;
+    }
+
+    .copyright {
+        margin-top: 60px
+    }
+    .copyright p {
+        font-size: 12px;
+        font-family: Ubuntu;
+        color: #545984
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+    #header {
+        background: url(../img/bg-1.png) no-repeat;
+        background-position: center center;
+        background-size: cover;
+        min-height: 960px;
+    }
+
+    .logo {
+        padding-top: 35px;
+    }
+
+    .nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 22px
+    }
+
+    .nav_style .navbar-nav > li > a {
+        color: white;
+        padding: 10px 5px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .nav_style .navbar-nav > li > a:hover {
+        color: white
+    }
+
+    .header_icon {
+
+        margin-top: 32px
+    }
+
+    .header_icon i {
+        color: white;
+        font-size: 20px;
+        padding-right: 4px;
+    }
+
+    .header_content {
+        margin-top: 180px;
+    }
+
+    .header_h2 {
+        font-family: Ubuntu;
+        font-weight: bold;
+        color: white;
+        font-size: 56px;
+    }
+
+    .header_p {
+        font-family: Ubuntu;
+        width: 100%;
+        color: white;
+        font-size: 18px
+    }
+
+    .dwn_btn {
+        background: #fc6a42;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 30px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 18px
+    }
+
+    .btn_feat {
+        background: #4466c9;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 30px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 18px
+    }
+
+    .header_img {
+
+        margin-top: 145px
+    }
+
+    .mobile_pos_header {}
+
+    .header_btm_img_pos {
+        position: relative;
+        margin-top: 88px;
+    }
+
+    .img_arrow_Pos {
+        position: absolute;
+        right: 49%;
+        top: 79%;
+    }
+
+    #perfect {
+        min-height: 555px;
+    }
+
+    .title {
+        margin-top: 91px;
+    }
+
+    .title_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+
+    .title_p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    .single_perfect {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    .img_perfect {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .content_perfect {
+        float: right;
+        width: 100%;
+    }
+
+    .content_perfect h2 {
+        font-family: ubuntu;
+        font-size: 24px;
+        font-weight: bold;
+        color: #353854;
+    }
+
+    .content_perfect p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    #widgets {
+        min-height: 800px;
+    }
+
+    .widget_slider {
+        position: relative;
+        margin-top: 60px;
+    }
+
+    .widget_img_pos {
+        position: absolute;
+        left: 0%;
+    }
+
+    .right_aro_pos {
+        position: absolute;
+        left: -2%;
+        top: 260px;
+    }
+
+    .left_aro_pos {
+        position: absolute;
+        right: -2%;
+        top: 260px;
+    }
+
+    #screenshots {}
+    .screenshot_feature {
+        margin-top: 105px;
+        min-height: 600px;
+    }
+    .screenshots_feature01_img {
+        background: url(../img/cloud-bg.png) no-repeat;
+        background-position: 73px;
+    }
+    .screenshots_feature02_img {
+        background: url(../img/sunny-bg.jpg) no-repeat;
+        background-position: 98px;
+    }
+    .screenshots_feature03_img {
+        background: url(../img/raniy-bg.jpg) no-repeat;
+        background-position: 98px;
+    }
+    .screenshots_feature_content {
+        width: 95%;
+        margin-top: 70px
+    }
+    .screenshot_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+    .screenshot_p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #999999;
+    }
+
+    #people {
+        min-height: 635px
+    }
+    .title_people {
+        margin-bottom: 80px;
+        margin-top: 20px;
+    }
+    .people_comment {
+        margin-bottom: 100px;
+
+    }
+    .up_people_img {
+        margin-bottom: 15px
+    }
+    .down_people_img {}
+    .people_comment {}
+    .people_comment p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #6c6e7e;
+    }
+    .people_comment span {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #353854
+    }
+
+    #download {
+        background: url(../img/footer_up.jpg) no-repeat;
+        background-size: cover;
+        min-height: 460px;
+        background-position: center center;
+    }
+    .download_content {
+        margin-top: 125px;
+
+    }
+
+    .download_content h2 {
+        font-family: ubuntu;
+        font-size: 26px;
+        font-weight: bold;
+        color: white;
+        margin-bottom: 25px;
+        text-transform: uppercase;
+    }
+
+    .download_content p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #dfe6ff;
+        margin-bottom: 35px;
+        width: 72%;
+    }
+
+    #footer {
+        min-height: 370px;
+        background: #353854;
+    }
+
+    .border_btm {
+        border-bottom: 2px solid #474b6f;
+        min-height: 210px
+    }
+
+    .footer_logo {
+        margin-top: 98px;
+    }
+
+    .footer_nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 84px;
+    }
+
+    .footer_nav_style .navbar-nav > li > a {
+        color: #b5b5c8;
+        padding: 10px 5px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .footer_nav_style .navbar-nav > li > a:hover {
+        color: #ffffff
+    }
+
+    .footer_icon {
+        margin-top: 95px;
+    }
+    .footer_icon i {
+        color: #aeafc2;
+        font-size: 20px;
+        padding-right: 4px;
+    }
+
+    .copyright {
+        margin-top: 60px
+    }
+    .copyright p {
+        font-size: 16px;
+        font-family: Ubuntu;
+        color: #545984
+    }
+
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    #header {
+        background: url(../img/bg-1.png) no-repeat;
+        background-position: center center;
+        background-size: cover;
+        min-height: 960px;
+    }
+
+    .logo {
+        padding-top: 35px;
+    }
+
+    .nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 22px
+    }
+
+    .nav_style .navbar-nav > li > a {
+        color: white;
+        padding: 10px 19px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .nav_style .navbar-nav > li > a:hover {
+        color: white
+    }
+
+    .header_icon {
+
+        margin-top: 32px
+    }
+
+    .header_icon i {
+        color: white;
+        font-size: 20px;
+        padding-right: 15px;
+    }
+
+    .header_content {
+        margin-top: 235px
+    }
+
+    .header_h2 {
+        font-family: Ubuntu;
+        font-weight: bold;
+        color: white;
+        font-size: 60px
+    }
+
+    .header_p {
+        font-family: Ubuntu;
+        width: 100%;
+        color: white;
+        font-size: 18px
+    }
+
+    .dwn_btn {
+        background: #fc6a42;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 30px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 18px
+    }
+
+    .btn_feat {
+        background: #4466c9;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 30px;
+        color: white;
+        font-family: Ubuntu;
+        font-weight: bold;
+        font-size: 18px
+    }
+
+    .header_img {
+
+        margin-top: 145px
+    }
+
+    .mobile_pos_header {}
+
+    .header_btm_img_pos {
+        position: relative
+    }
+
+    .img_arrow_Pos {
+        position: absolute;
+        right: 49%;
+        top: 46%;
+    }
+
+    #perfect {
+        min-height: 555px;
+    }
+
+    .title {
+        margin-top: 125px;
+    }
+
+    .title_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+
+    .title_p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    .single_perfect {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .img_perfect {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .content_perfect {
+        float: right;
+        width: 100%;
+    }
+
+    .content_perfect h2 {
+        font-family: ubuntu;
+        font-size: 24px;
+        font-weight: bold;
+        color: #353854;
+    }
+
+    .content_perfect p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #999999;
+    }
+
+    #widgets {
+        min-height: 960px
+    }
+
+    .widget_slider {
+        position: relative;
+        margin-top: 80px;
+    }
+
+    .widget_img_pos {
+        position: absolute;
+        left: 5%;
+    }
+
+    .right_aro_pos {
+        position: absolute;
+        left: 0%;
+        top: 305px;
+    }
+
+    .left_aro_pos {
+        position: absolute;
+        right: 0%;
+        top: 305px;
+    }
+
+    #screenshots {}
+    .screenshot_feature {
+        margin-top: 200px;
+        min-height: 600px
+    }
+    .screenshots_feature01_img {
+        background: url(../img/cloud-bg.png) no-repeat;
+        background-position: right
+    }
+    .screenshots_feature02_img {
+        background: url(../img/sunny-bg.jpg) no-repeat;
+        background-position: right
+    }
+    .screenshots_feature03_img {
+        background: url(../img/raniy-bg.jpg) no-repeat;
+        background-position: right
+    }
+    .screenshots_feature_content {
+        width: 95%;
+        margin-top: 70px
+    }
+    .screenshot_h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: #648cff
+    }
+    .screenshot_p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #999999;
+    }
+
+    #people {
+        min-height: 635px
+    }
+    .title_people {
+        margin-bottom: 80px;
+        margin-top: 115px
+    }
+    .people_comment {
+        margin-bottom: 100px;
+
+    }
+    .up_people_img {
+        margin-bottom: 15px
+    }
+    .down_people_img {}
+    .people_comment {}
+    .people_comment p {
+        font-family: ubuntu;
+        font-size: 24px;
+        color: #6c6e7e;
+    }
+    .people_comment span {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #353854
+    }
+
+    #download {
+        background: url(../img/footer_up.jpg) no-repeat;
+        background-size: cover;
+        min-height: 460px;
+        background-position: center center;
+    }
+    .download_content {
+        margin-top: 125px;
+
+    }
+
+    .download_content h2 {
+        font-family: ubuntu;
+        font-size: 36px;
+        font-weight: bold;
+        color: white;
+        margin-bottom: 40px;
+        text-transform: uppercase
+    }
+
+    .download_content p {
+        font-family: ubuntu;
+        font-size: 18px;
+        color: #dfe6ff;
+        margin-bottom: 50px;
+        width: 72%
+    }
+
+    #footer {
+        min-height: 370px;
+        background: #353854;
+    }
+
+    .border_btm {
+        border-bottom: 2px solid #474b6f;
+        min-height: 210px
+    }
+
+    .footer_logo {
+        margin-top: 98px;
+    }
+
+    .footer_nav_style {
+        background: transparent;
+        border: none;
+        margin-top: 78px;
+    }
+
+    .footer_nav_style .navbar-nav > li > a {
+        color: #b5b5c8;
+        padding: 10px 19px;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: normal;
+    }
+    .footer_nav_style .navbar-nav > li > a:hover {
+        color: #ffffff
+    }
+
+    .footer_icon {
+        margin-top: 88px
+    }
+    .footer_icon i {
+        color: #aeafc2;
+        font-size: 20px;
+        padding-right: 15px;
+    }
+
+    .copyright {
+        margin-top: 60px
+    }
+    .copyright p {
+        font-size: 16px;
+        font-family: Ubuntu;
+        color: #545984
+    }
+
+
+}
+
+@media (max-width: 1200px) {}
